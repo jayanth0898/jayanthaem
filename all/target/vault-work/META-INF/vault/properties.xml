@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>ANF Code Challenge - All</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="createdBy">dellarun</entry>
+<entry key="created">2022-10-03T14:04:53.384+05:30</entry>
+<entry key="groupId">com.anf</entry>
+<entry key="name">anf-code-challenge.all</entry>
+<entry key="description">All content package for ANF Code Challenge</entry>
+<entry key="artifactId">anf-code-challenge.all</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="packageType">application</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.anf</entry>
+</properties>

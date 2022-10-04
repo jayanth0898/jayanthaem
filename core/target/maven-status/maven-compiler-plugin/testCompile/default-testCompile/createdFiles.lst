@@ -1,0 +1,4 @@
+com\anf\core\servlets\SimpleServletTest.class
+com\anf\core\filters\LoggingFilterTest.class
+com\anf\core\models\HelloWorldModelTest.class
+com\anf\core\schedulers\SimpleScheduledTaskTest.class

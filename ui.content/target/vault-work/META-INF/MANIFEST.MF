@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven
+Built-By: dellarun
+Build-Jdk: 11.0.12
+Implementation-Title: ANF Code Challenge - UI content
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.anf
+Content-Package-Roots: /conf/anf-code-challenge,/content/anf-code-challe
+ nge,/content/dam/anf-code-challenge,/content/experience-fragments/anf-c
+ ode-challenge
+Content-Package-Description: UI content package for ANF Code Challenge
+Content-Package-Dependencies: com.anf:anf-code-challenge.ui.apps:1.0-SNA
+ PSHOT
+Content-Package-Id: com.anf:anf-code-challenge.ui.content:1.0-SNAPSHOT
+Content-Package-Type: content
+

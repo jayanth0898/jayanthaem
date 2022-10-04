@@ -1,0 +1,8 @@
+org\apache\sling\scripting\sightly\apps\anf__002d__code__002d__challenge\components\newsfeed\newsfeed_html.class
+org\apache\sling\scripting\sightly\apps\anf__002d__code__002d__challenge\components\xfpage\content_html.class
+org\apache\sling\scripting\sightly\apps\anf__002d__code__002d__challenge\components\xfpage\customfooterlibs_html.class
+org\apache\sling\scripting\sightly\apps\anf__002d__code__002d__challenge\components\helloworld\helloworld_html.class
+org\apache\sling\scripting\sightly\apps\anf__002d__code__002d__challenge\components\form\country\country_html.class
+org\apache\sling\scripting\sightly\apps\anf__002d__code__002d__challenge\components\page\customheaderlibs_html.class
+org\apache\sling\scripting\sightly\apps\anf__002d__code__002d__challenge\components\xfpage\customheaderlibs_html.class
+org\apache\sling\scripting\sightly\apps\anf__002d__code__002d__challenge\components\page\customfooterlibs_html.class

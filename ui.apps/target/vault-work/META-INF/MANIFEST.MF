@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven
+Built-By: dellarun
+Build-Jdk: 11.0.12
+Implementation-Title: ANF Code Challenge - UI apps
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.anf
+Content-Package-Roots: /apps/anf-code-challenge,/etc/age
+Content-Package-Description: UI apps package for ANF Code Challenge
+Content-Package-Dependencies: adobe/cq60:core.wcm.components.content:2.8
+ .0,adobe/cq60:core.wcm.components.config:2.8.0
+Content-Package-Id: com.anf:anf-code-challenge.ui.apps:1.0-SNAPSHOT
+Import-Package: com.anf.core.models;version="[1.0.0,2.0.0)",org.apache.s
+ ling.scripting.sightly;version="[2.0.0,3.0.0)"
+Content-Package-Type: application
+

@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven
+Built-By: dellarun
+Build-Jdk: 17.0.4.1
+Implementation-Title: ANF Code Challenge - All
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.anf
+Content-Package-Roots: /apps/anf-code-challenge-packages,/apps/anf-code-
+ challenge-vendor-packages
+Content-Package-Description: All content package for ANF Code Challenge
+Content-Package-Id: com.anf:anf-code-challenge.all:1.0-SNAPSHOT
+Content-Package-Type: application
+
